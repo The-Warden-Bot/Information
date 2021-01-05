@@ -40,15 +40,15 @@ The Warden also comes packed with a variety of features, such as:
 ## To-Do List
 
 The Warden is in a continuous state of development. New features/updates may come at any time. Some pending ideas are:
-  ### To Do
+  ##### To Do
   - [ ] Automod
   - [ ] Stream alerts
     - [ ] Youtube
     - [ ] Twitch
 
-  ### In Progress
+  ##### In Progress
 
-  ### Done ✓
+  ##### Done ✓
 
   - [x] Music Module
 
