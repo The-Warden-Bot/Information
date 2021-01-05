@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/The-Warden-Bot"><img src="./assets/officiallogo.png"></a>
+  <a href="https://github.com/The-Warden-Bot"><img src="./assets/imgs/officiallogo.png"></a>
   <br>
   The Warden
   <br>
