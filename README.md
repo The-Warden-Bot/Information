@@ -10,7 +10,7 @@
 <div align=center>
 
   <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
+    <img src="https://img.shields.io/badge/discord.js-v12.5.1-blue.svg?logo=npm" alt="shield.png">
   </a>
 
 </div>
