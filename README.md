@@ -51,6 +51,14 @@ The Warden is in a continuous state of development. New features/updates may com
   ##### Done ✓
 
   - [x] Music Module
+    - [x] Youtube
+    - [x] Twitch
+    - [x] HTTPS
+    - [x] Spotify
+    - [x] Deezer
+    - [x] Bandcamp
+    - [ ] 24/7 Radio
+  - [x] Support Ticket System
 
 
 ## Credits
