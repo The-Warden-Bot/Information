@@ -2,8 +2,6 @@
   <br>
   <a href="https://github.com/The-Warden-Bot"><img src="./assets/imgs/officiallogo.png"></a>
   <br>
-  The Warden
-  <br>
 </h1>
 
 <h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
